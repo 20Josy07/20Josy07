@@ -33,7 +33,7 @@
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=20Josy07&show_icons=true&theme=tokyonight&hide_border=true&title_color=3DDC84" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=20Josy07&show_icons=true&theme=tokyonight&hide_border=true&title_color=3DDC84" alt="Estadísticas de GitHub" width="48%"
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=20Josy07&theme=tokyonight&hide_border=true&title_color=3DDC84" alt="GitHub Streak" width="48%" />
 </p>
 
