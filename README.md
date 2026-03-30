@@ -21,7 +21,7 @@
 * 📱 Ahorita ando súper enfocado desarrollando una **aplicación para Android** y mejorando mis habilidades en el desarrollo móvil.
 * 🎧 El código siempre compila mejor a la primera si traigo algo de **Bad Bunny** o un buen reggaetón sonando.
 * ⚙️ Me late un buen todo lo que tiene que ver con hardware, desde armar setups hasta checar los últimos gadgets.
-* 🕹️ Cuando toca desconectarse, me armo unas retas en **Forza Horizon**, **GTA** o **Roblox**.
+* 🕹️ Cuando toca desconectarse, me armo unas retas en **Forza Horizon**, **GTA** o **Fortnite**.
 
 ### 🌱 ¿Qué estoy aprendiendo ahora mismo?
 
